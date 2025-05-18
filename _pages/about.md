@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Next-gen Optical Fibers Lab (NOFLab)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,15 @@ Dr. Habib leads the Next-gen Optical Fibers Lab (NFOLab), where he leads cutting
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Dr. Habib received the Ph.D. degree in Electrical and Photonics engineering from the Technical University of Denmark (DTU) in 2017. Following the completion of his doctoral studies, he joined the Fibers Sensors and Supercontinuum Group at the Department of Electrical and Photonics Engineering, DTU, as a Postdoctoral Researcher. After concluding his Postdoctoral Fellowship at DTU, he served as a Postdoctoral Research Associate at CREOL, The College of Optics and Photonics, University of Central Florida, USA, from 2017 to 2019. From 2019 to 2023, Dr. Habib held the position of Assistant Professor of Electrical and Computer Engineering at Florida Polytechnic University, USA. Currently, he is an Assistant Professor of Electrical Engineering at Florida Institute of Technology. His research mainly focuses on computational electromagnetics, emerging optical fiber design, fabrication, and characterization, and ultrafast nonlinear optics. He has published more than 50 articles in refereed journals. 
+
+Dr. Habib is a Senior Member of Institute of Electrical and Electronics Engineers (IEEE) and Optica (formerly OSA), and Executive officer of OSA Fiber modeling and Fabrication group. Dr. Habib is an Associate Editor of IEEE Journal of Lightwave Technology, and Feature Editor of Applied Optics (OSA). He received the University Gold Medal Award from Rajshahi University of Engineering and Technology in 2014.
+
+
+#Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+#Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
