@@ -13,11 +13,13 @@ title                    : "NOFLab"
 title_separator          : "-"
 name                     : "Md Selim Habib, PhD"
 description              : "Assistant Professor of Electrical Engineering"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : "academicpages/academicpages.github.io"
 
-
+url                      : https://github.com/mhabib73 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://github.com/mhabib73/NOFLab.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "mhabib73/NOFLab.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
