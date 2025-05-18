@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url:/files/CV_Md_Selim_Habib_2025.pdf
     
   # - title: "CV"
   #   url: /cv-json/
