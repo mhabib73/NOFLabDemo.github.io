@@ -10,25 +10,18 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "Posts"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
-    #url:/files/CV_Md_Selim_Habib_2025.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
