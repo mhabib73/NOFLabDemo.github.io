@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Next-gen Optical Fibers Lab (NOFLab)"
+#title: "Welcome to Next-gen Optical Fibers Lab (NOFLab)"
 author_profile: true
 redirect_from: 
   - /about/
