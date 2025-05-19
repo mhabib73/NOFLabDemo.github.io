@@ -2,10 +2,10 @@
 title: "Enhanced Inhibited Mode-Coupling: Multi-Mode Hollow-Core Anti-Resonant Fiber Designs"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-06-21-paper-title-number-2
+permalink: /publication/Mahfuz_Enhanced_JSTQE_2024
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-#date: 2009-10-01
-#venue: 'Journal 1'
+date: 2024-06-21
+venue: 'IEEE Journal of Selected Topics in Quantum Electronics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10568319'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
