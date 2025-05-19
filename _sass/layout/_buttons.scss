@@ -23,9 +23,10 @@
   cursor: pointer;
 
   &:hover {
-   
-      color: #fff;
-    background-color: $link-color !important;
+     color: #fff;
+    background-color: mix(white, #000, 20%);
+      
+    #background-color: $link-color !important;
   }
 
   .icon {
