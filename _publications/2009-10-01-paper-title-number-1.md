@@ -9,6 +9,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-2745&id=567136'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Mohammad Al Mahfuz, Md Selim Habib. (2009)'
+citation: 'Mohammad Al Mahfuz and Md Selim Habib, Optics Express 33, 2745 (2009)'
 ---
 
