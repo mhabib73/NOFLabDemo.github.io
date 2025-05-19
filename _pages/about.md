@@ -13,4 +13,5 @@ Dr. Habib received the Ph.D. degree in Electrical and Photonics engineering from
 
 Dr. Habib is a Senior Member of Institute of Electrical and Electronics Engineers (IEEE) and Optica (formerly OSA), and Executive officer of OSA Fiber modeling and Fabrication group. Dr. Habib is an Associate Editor of IEEE Journal of Lightwave Technology, and Feature Editor of Applied Optics (OSA). He received the University Gold Medal Award from Rajshahi University of Engineering and Technology in 2014.
 
+![image](https://github.com/user-attachments/assets/38ab0299-cc8c-4779-b7e5-ade585d09b49)
 
