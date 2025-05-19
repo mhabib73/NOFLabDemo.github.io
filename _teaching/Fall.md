@@ -3,9 +3,9 @@ title: "Fall Semester"
 collection: teaching
 type: "Graduated Course"
 permalink: /teaching/Fall
-#venue: "University 1, Department"
-#date: 2014-01-01
-#location: "City, Country"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 ECE 5350 Optical Electronics
