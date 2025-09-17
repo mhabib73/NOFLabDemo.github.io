@@ -19,11 +19,15 @@ Dr. Habib is a Senior Member of Optica (formerly OSA) and Institute of Electrica
 
 ---
 ## Background
+
 - Currentl Position: Assistant Professor of Electrical Engineering, Florida Institute of Technology, USA
 ---
+
 ## Education 
 - 2017: Ph.D. in Electrical and Photonics Engieering at Technical University of Denmark, Denmark
 ---
+
+
 ## Latest news
 
 **April 25, 2025 New Preprint**: My first paper on SBI. We integrate the latest foundation model
