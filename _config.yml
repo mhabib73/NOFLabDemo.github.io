@@ -11,9 +11,9 @@ title                    : "Md Selim Habib"
 title_separator          : "-"
 name                     : &name "Md Selim Habib"
 description              : &description "Assistant Professor, Florida Institute of Technology, USA"
-url                      : https://dgedon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dgedon/dgedon.github.io"
+url                      : https://mhabib73.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "mhabib73/NOFLab.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
