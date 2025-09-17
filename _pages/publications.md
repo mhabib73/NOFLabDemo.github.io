@@ -14,10 +14,7 @@ Julius Vetter, Manuel Gloeckler, **DG**, Jakob H. Macke,
 ## Peer-reviewed publications
 ---
 
-
 ## 2025
-
----
 
 Mohammad Al Mahfuz, **Md Selim Habib** Highly scalable solid-core inhibited-coupling fiber-based plasmonic refractive index sensor
 *Optics Express* **43**, 2745 (2025).\
