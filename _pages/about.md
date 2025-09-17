@@ -19,12 +19,10 @@ Dr. Habib is a Senior Member of Optica (formerly OSA) and Institute of Electrica
 
 ---
 ## Background
-- Currently: Postdoctoral fellow at Tübingen University, Germany.
-- 2024: Ph.D. in deep learning at Uppsala University, Sweden.
-- 2019: M.Sc. in systems and control from TU Delft, the Netherlands.
-- 2015: B.Sc. in aerospace engineering from DHBW, Germany.
-- 1994: born.
-
+- Currentl Position: Assistant Professor of Electrical Engineering, Florida Institute of Technology, USA.
+- 2017: Ph.D. in Electrical and Photonics Engieering at Technical University of Denmark, Denmark.
+- 2012: M.Sc. in Electrical Engineering from Rajshahi University of Engineering and Technology, Bangladesh.
+- 2009: B.Sc. in Electrical and Electronc Engineering from Rajshahi University of Engineering and Technology, Bangladesh.
 
 ---
 ## Latest news
