@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Gedon"
+title                    : "Md Selim Habib"
 title_separator          : "-"
-name                     : &name "Daniel Gedon"
-description              : &description "Postdoctoral researcher at Tübingen University, Germany"
+name                     : &name "Md Selim Habib"
+description              : &description "Assistant Professor, Florida Institute of Technology, USA"
 url                      : https://dgedon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dgedon/dgedon.github.io"
