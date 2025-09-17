@@ -15,6 +15,7 @@ Julius Vetter, Manuel Gloeckler, **DG**, Jakob H. Macke,
 ---
 
 ## 2025
+---
 
 Mohammad Al Mahfuz, **Md Selim Habib** Highly scalable solid-core inhibited-coupling fiber-based plasmonic refractive index sensor
 *Optics Express* **43**, 2745 (2025).\
@@ -22,6 +23,7 @@ Mohammad Al Mahfuz, **Md Selim Habib** Highly scalable solid-core inhibited-coup
 #[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
 ## 2024
+---
 
 **No Double Descent in Principal Component Regression: A High-Dimensional Analysis**,
 **DG**, Antônio H. Ribeiro, Thomas B. Schön,
