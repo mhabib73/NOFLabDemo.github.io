@@ -18,13 +18,19 @@ Dr. Habib received the Ph.D. degree in Electrical and Photonics engineering from
 Dr. Habib is a Senior Member of Optica (formerly OSA) and Institute of Electrical and Electronics Engineers, and Executive officer of OSA Fiber modeling and Fabrication group. Dr. Habib is an Associate Editor of IEEE Journal of Lightwave Technology, and Feature Editor of Applied Optics (OSA). He received the University Gold Medal Award from Rajshahi University of Engineering and Technology in 2014.
 
 ---
-## Background
+## Professional Experience
 
-- Currentl Position: Assistant Professor of Electrical Engineering, Florida Institute of Technology, USA
+-- 2023 - present: Assistant Professor, Florida Institute of Technology, USA
+
+-- 2019 - 2023: Assistant Professor, Florida Institute of Technology, USA
+
+-- 2017 - 2019: Research Scientist, CREOL, The College of Optics & Photonics, USA
+
+-- 2017: Postdoctoral Researcher, Technical University of Denmark, Denamrk
 
 
 ## Education 
-- 2017: Ph.D. in Electrical and Photonics Engieering at Technical University of Denmark, Denmark
+-- 2017: Ph.D. in Electrical and Photonics Engieering at Technical University of Denmark, Denmark
 
 
 ## Latest news
